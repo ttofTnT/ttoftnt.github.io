@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ttoftnt.github.io/sitemap.xml
